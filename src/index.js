@@ -4,3 +4,4 @@ console.log(2);
 console.log('next');
 console.log('next2');
 console.log('next3');
+console.log('next4');
